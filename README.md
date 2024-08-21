@@ -12,4 +12,3 @@
     ⏱ Time tracking last week
   </summary>
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=vingtehan&theme=transparent"/>
