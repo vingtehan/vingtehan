@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**vingtehan/vingtehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm vingtehan 👋🏻
 
-Here are some ideas to get you started:
+<details>
+  <summary>
+    📈 Some extra stats
+  </summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/api/?username=vingtehan&column=4&theme=flat&margin-w=18&margin-h=15"/>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>
+    ⏱ Time tracking last week
+  </summary>
+  <br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=vingtehan&theme=transparent"/>
+</details>
